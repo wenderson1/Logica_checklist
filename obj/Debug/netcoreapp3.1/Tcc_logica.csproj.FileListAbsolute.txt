@@ -1,0 +1,13 @@
+C:\Users\Wenderson\Desktop\TCC\Tcc_logica\bin\Debug\netcoreapp3.1\Tcc_logica.exe
+C:\Users\Wenderson\Desktop\TCC\Tcc_logica\bin\Debug\netcoreapp3.1\Tcc_logica.deps.json
+C:\Users\Wenderson\Desktop\TCC\Tcc_logica\bin\Debug\netcoreapp3.1\Tcc_logica.runtimeconfig.json
+C:\Users\Wenderson\Desktop\TCC\Tcc_logica\bin\Debug\netcoreapp3.1\Tcc_logica.runtimeconfig.dev.json
+C:\Users\Wenderson\Desktop\TCC\Tcc_logica\bin\Debug\netcoreapp3.1\Tcc_logica.dll
+C:\Users\Wenderson\Desktop\TCC\Tcc_logica\bin\Debug\netcoreapp3.1\Tcc_logica.pdb
+C:\Users\Wenderson\Desktop\TCC\Tcc_logica\obj\Debug\netcoreapp3.1\Tcc_logica.csprojAssemblyReference.cache
+C:\Users\Wenderson\Desktop\TCC\Tcc_logica\obj\Debug\netcoreapp3.1\Tcc_logica.AssemblyInfoInputs.cache
+C:\Users\Wenderson\Desktop\TCC\Tcc_logica\obj\Debug\netcoreapp3.1\Tcc_logica.AssemblyInfo.cs
+C:\Users\Wenderson\Desktop\TCC\Tcc_logica\obj\Debug\netcoreapp3.1\Tcc_logica.csproj.CoreCompileInputs.cache
+C:\Users\Wenderson\Desktop\TCC\Tcc_logica\obj\Debug\netcoreapp3.1\Tcc_logica.dll
+C:\Users\Wenderson\Desktop\TCC\Tcc_logica\obj\Debug\netcoreapp3.1\Tcc_logica.pdb
+C:\Users\Wenderson\Desktop\TCC\Tcc_logica\obj\Debug\netcoreapp3.1\Tcc_logica.genruntimeconfig.cache
